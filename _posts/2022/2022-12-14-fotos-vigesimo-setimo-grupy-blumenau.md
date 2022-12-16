@@ -16,7 +16,7 @@ Veja aqui as fotos do nosso encontro que aconteceu dia 03/12/2022.
 <img src="/assets/images/grupy_4.jpeg" alt="Participantes do 27º Econtro do Grupy"/>
 
 
-Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:
+Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links: 
 
 <ul>
     <li><a href="https://www.facebook.com/pythonbnu/">GruPy Blumenau no Facebook</a></li>
